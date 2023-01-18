@@ -1,0 +1,3 @@
+Esta carpeta nueva la hice para probar de nuevo los comandos 
+borre uno y agregue esta y por logica debe tener algun cambio en git
+Solo son de pruebas al final tal vez hasta este archivo ni se ocupa
